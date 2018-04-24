@@ -1,6 +1,8 @@
-
+h1{
+	text-align: center;
+}
 table{
-	align-content: center;
+	margin: auto;
 }
 
 td{
